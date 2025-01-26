@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <link rel="stylesheet" href="/assets/css/style.css">
-    <title>Eyakeno Robert - Backend developer</title>
+    <title>james Akpan - ui and ux expert</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -74,7 +74,7 @@
         <h2>About Me</h2>
         
         <p>
-            Hi, I am <strong>Eyakeno Robert</strong>. a versatile developer with expertise in the LAMP (Linux, Apache, MySQL, PHP) stack             and Laravel framework, combined with a passion for crafting exceptional user experiences. As a professional UI/UX designer,              I specialize in blending functionality and aesthetics, ensuring that every application is efficient, intuitive, and visually             captivating.
+            Hi, I am <strong>james akpan</strong>. i am a ui and ux expert
         </p>
         
         <ul>
@@ -85,6 +85,8 @@
             <li><strong>🎨  UI/UX Expertise:</strong> Designed user-centric interfaces that improved engagement and satisfaction by                 prioritizing accessibility and simplicity.
             Delivered wireframes, prototypes, and designs that aligned with business goals and user needs.</li>
             
+            <li><strong>🤝Team Collaboration::</strong>Team Collaboration:Partnered with cross-functional teams to transform ideas into             functional and user-friendly digital solutions.</li>
+
             <li><strong>🤝Team Collaboration::</strong>Team Collaboration:Partnered with cross-functional teams to transform ideas into             functional and user-friendly digital solutions.</li>
         </ul>
 
