@@ -157,7 +157,7 @@
                 </tr>
                 <tr>
                     <td>⬇️</td>
-                    <td><a href="https:EYAKENO ROBERT cv.pdf">Download my CV</a></td>
+                    <td><a href="EYAKENO ROBERT cv.pdf">Download my CV</a></td>
                 </tr>
         
           
